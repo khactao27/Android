@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dương Khắc Tạo</string>
+    <string name="mssv_label">Mã SV:</string>
+    <string name="mac_label">Địa chỉ MAC:</string>
+    <string name="btn_label">GET TOKEN</string>
+    <string name="address_label">Thời điểm local:</string>
+    <string name="time_server_label">Thời điểm server:</string>
+    <string name="token_label">Token:</string>
+</resources>
